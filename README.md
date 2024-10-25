@@ -12,7 +12,7 @@ Welcome to my GitHub repository! This collection showcases my journey as I creat
 - State Management: Managing state with Context API and Redux.
 - API Integration: Fetching and displaying data from external APIs.
 - Forms and Validation: Creating and validating complex forms.
-- Applications: Building intermediate application like Form Application, Study Point, Top Ten Courses and Our Testimonials.
+- Applications: Building intermediate application like Form Application, Study Point, Top Ten Courses and Testimonials and Developers Blogs
 
 # Advanced Level Projects:
 - Performance Optimization: Techniques for optimizing React applications.
