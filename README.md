@@ -5,14 +5,14 @@ Welcome to my GitHub repository! This collection showcases my journey as I creat
 # Basic Level Projects:
 - Simple Components: Understanding JSX, props, and state.
 - Basic Forms: Handling user inputs and form submissions.
-- Simple Applications: Building simple applications like to-do lists, calculators and Plan for Adventure.
+- Simple Applications: Building simple applications like to-do lists, calculators and Plan for Adventure, Form Application.
 
 # Intermediate Level Projects:
 - Routing: Implementing React Router for navigation.
 - State Management: Managing state with Context API and Redux.
 - API Integration: Fetching and displaying data from external APIs.
 - Forms and Validation: Creating and validating complex forms.
-- Applications: Building intermediate application like Form Application, Study Point, Top Ten Courses and Testimonials and Developers Blogs
+- Applications: Building intermediate application like Study Point, Top Ten Courses and Testimonials and Developers Blogs
 
 # Advanced Level Projects:
 - Performance Optimization: Techniques for optimizing React applications.
