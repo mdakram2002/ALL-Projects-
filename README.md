@@ -28,7 +28,7 @@ Each project in this repository is deployed and accessible for live demonstratio
 - Form Application: https://applicationformin.netlify.app
 - Study Point: https://studypointakram.netlify.app
 
-#Goals:
+# Goals:
 - Build Proficiency: Strengthen my skills in React.js at all levels.
 - Develop Complex UIs: Create intricate and responsive user interfaces.
 - Master State Management: Effectively manage state using best practices.
