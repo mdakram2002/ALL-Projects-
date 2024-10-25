@@ -5,20 +5,20 @@ Welcome to my GitHub repository! This collection showcases my journey as I creat
 # Basic Level Projects:
 - Simple Components: Understanding JSX, props, and state.
 - Basic Forms: Handling user inputs and form submissions.
-- Simple Applications: Building simple applications like to-do lists and calculators.
+- Simple Applications: Building simple applications like to-do lists, calculators and Plan for Adventure.
 
 # Intermediate Level Projects
 - Routing: Implementing React Router for navigation.
 - State Management: Managing state with Context API and Redux.
 - API Integration: Fetching and displaying data from external APIs.
 - Forms and Validation: Creating and validating complex forms.
-- Applications: Building intermediate application like Form Application and Study Point.
+- Applications: Building intermediate application like Form Application, Study Point, Top Ten Courses and Our Testimonials.
 
 # Advanced Level Projects
 - Performance Optimization: Techniques for optimizing React applications.
 - Server-Side Rendering: Using Next.js for SSR.
 - Advanced Patterns: Using higher-order components, render props, and custom hooks.
-- Applications: Building advance level application like Developer Blogs.
+- Applications: Building advance level application like Developers Blogs.
 
 # Deployment
 Each project in this repository is deployed and accessible for live demonstration. Check out the live links provided in each project’s README file.
@@ -27,6 +27,7 @@ Each project in this repository is deployed and accessible for live demonstratio
 - Our Review/Testimonials: https://our-review-akram.netlify.app
 - Form Application: https://applicationformin.netlify.app
 - Study Point: https://studypointakram.netlify.app
+- Developers Blogs: https://developers-blogs.netlify.app
 
 # Goals:
 - Build Proficiency: Strengthen my skills in React.js at all levels.
