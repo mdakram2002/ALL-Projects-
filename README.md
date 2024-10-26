@@ -18,7 +18,7 @@ Welcome to my GitHub repository! This collection showcases my journey as I creat
 - Performance Optimization: Techniques for optimizing React applications.
 - Server-Side Rendering: Using Next.js for SSR.
 - Advanced Patterns: Using higher-order components, render props, and custom hooks.
-- Applications: Building advance level application like coming soon.
+- Applications: Building advance level application like Counter-react-redux.
 
 # Deployment:
 Each project in this repository is deployed and accessible for live demonstration. Check out the live links provided in each project’s README file.
@@ -28,6 +28,7 @@ Each project in this repository is deployed and accessible for live demonstratio
 - Form Application: https://applicationformin.netlify.app
 - Study Point: https://studypointakram.netlify.app
 - Developers Blogs: https://developers-blogs.netlify.app
+- Counter App: https://counter-react-redux-app.netlify.app
 
 # Goals:
 - Build Proficiency: Strengthen my skills in React.js at all levels.
