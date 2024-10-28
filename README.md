@@ -12,13 +12,13 @@ Welcome to my GitHub repository! This collection showcases my journey as I creat
 - State Management: Managing state with Context API and Redux.
 - API Integration: Fetching and displaying data from external APIs.
 - Forms and Validation: Creating and validating complex forms.
-- Applications: Building intermediate application like 'Study Point', Random-gif and 'Developers Blogs'.
+- Applications: Building intermediate application like 'Study Point', Random-gif'Developers Blogs' and Easy Shopping.
 
 # Advanced Level Projects:
 - Performance Optimization: Techniques for optimizing React applications.
 - Server-Side Rendering: Using Next.js for SSR.
 - Advanced Patterns: Using higher-order components, render props, and custom hooks.
-- Applications: Building advance level application like Counter-react-redux.
+- Applications: Building advance level application like, coming soon.
 
 # Deployment:
 Each project in this repository is deployed and accessible for live demonstration. Check out the live links provided in each project’s README file.
@@ -29,6 +29,7 @@ Each project in this repository is deployed and accessible for live demonstratio
 - Study Point: https://studypointakram.netlify.app
 - Developers Blogs: https://developers-blogs.netlify.app
 - Counter App: https://counter-react-redux-app.netlify.app
+- Easy Shopping: https://portfolio-mdakram.netlify.app
 
 # Goals:
 - Build Proficiency: Strengthen my skills in React.js at all levels.
